@@ -1,0 +1,3 @@
+n. timeseries,area covered,frequency,Area_name_col,startYear,startYear_col,endYear,endYear_col,TotalPopulation_row,small area_data_start_row,dataEndRow,permission granted,filename,data extraction date,data source,small area geographic name,boundaries,Rounded,Link
+2214,New Zealand,annual,1,1996,2,2020,26,2,4,2258,yes,NZ_ERPs_1996-2020_2020geog.csv,09 Nov 2020 02:20 UTC (GMT),NZ.Stat,SA2,2020,Yes,http://nzdotstat.stats.govt.nz/OECDStat_Metadata/ShowMetadata.ashx?Dataset=TABLECODE7979&ShowOnWeb=true&Lang=en
+2255,Australian,annual,4,1991,5,2016,30,NA,2,2215,yes,Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv,NA,ABS.Stat © Commonwealth of Austtralia,SA2,ASGS 2011,No,http://stat.data.abs.gov.au/OECDStat_Metadata/ShowMetadata.ashx?Dataset=ABS_ANNUAL_ERP_ASGS&ShowOnWeb=true&Lang=en
